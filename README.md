@@ -9,10 +9,10 @@
 
 
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/jokemanfire/count.svg) visitor,Thank You!:raising_hand::raising_hand:
+You are my ![Visitor Count](https://profile-counter.glitch.me/jokemanfire/count.svg) visitor,Thank You!
 
 ### My Skill Set
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jokemanfire&layout=compact&theme=tokyonight)
 
-
+### My life
 ![](https://github-readme-stats.vercel.app/api?username=jokemanfire&show_icons=true&theme=transparent)
