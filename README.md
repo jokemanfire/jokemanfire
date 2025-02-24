@@ -1,9 +1,10 @@
 # jokemanfire
 ### Hi there 👋,I'm jokemanfire.
+Graduated from the University of Electronic Science and Technology of China.
 
-- 🔭 I’m currently working on Rust、Containerd.
+- 🔭 I’m currently working on Containerd.
 - 🌱 I’m currently learning Everything I like.
-- 💬 Ask me about anything related to Rust/C++.
+- 💬 Ask me about anything related to Rust/C++/Golang.
 - 📫 How to reach me: huzuzong123@gmail.com
 
 ### Stats
