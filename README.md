@@ -7,8 +7,7 @@ Graduated from the University of Electronic Science and Technology of China.
 - 💬 Ask me about anything related to Rust/C++/Golang.
 - 📫 How to reach me: huzuzong123@gmail.com
 
-### Stats
-![](https://github-readme-stats.vercel.app/api?username=jokemanfire&show_icons=true&theme=transparent)
+
 ### Skills
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jokemanfire&layout=compact&theme=tokyonight)
 
